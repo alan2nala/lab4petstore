@@ -1,4 +1,6 @@
 CHT PaaS Lab4 Petstore war file deploy
+============
+<pre>
 1.Please import 2 SQL files into your PaaS DB
 2.Modify WEB-INF\classes\properties\database.properties
 
@@ -14,5 +16,5 @@ password=ppppp
 3.zip the petstore folder 
 4.change .zip to .war
 5.deploy the war file to PaaS
-============
 
+</pre>
