@@ -1,6 +1,7 @@
+<pre>
 CHT PaaS Lab4 Petstore war file deploy
 ============
-<pre>
+
 1.Please import 2 SQL files into your PaaS DB
 2.Modify WEB-INF\classes\properties\database.properties
 
